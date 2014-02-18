@@ -57,7 +57,12 @@ hr {
 /*
  * Remove the gap between images and the bottom of their containers: h5bp.com/i/440
  */
-
+#container {
+    background-color: black;
+    width: 800px;
+    height: 500px;
+    margin: auto;
+}
 img {
     vertical-align: middle;
 }
